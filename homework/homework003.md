@@ -1,1 +1,2 @@
-
+1.Ruby與Rails的關係就像是PHP之於Laravel,Python之於Django...,程式語言之於框架,Rails則是由許多ruby語法組合而成
+2.一個request會先經由路由被分配到相對應的Controller進行一些處裡,再來透過Model與資料庫做溝通,最後將整理好的資料傳到View上
