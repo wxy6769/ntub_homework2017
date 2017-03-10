@@ -1,0 +1,3 @@
+
+ruby是一種程式語言，rails是以ruby程式為基底的框架，可以更快速的用簡單的幾行指令取代原本ruby的一堆指令，然而沒有ruby就沒有rails。
+controller控制一些程式碼，可透過要求向model連結資料，model會向資料庫查詢資料並取得傳回controller，controller會將從model取得的資料傳給view，view將資料美化後給使用者觀看。
