@@ -1,0 +1,3 @@
+ruby是一種程式語言，用來撰寫設計，rails是一個套用ruby的模板，一個範本再加修改。
+
+使用者輸入網址，到路徑對照表對照對應的coutroller裡的action，action到model翻成資料庫看得懂的SQL，到資料庫抓資料，再回傳到coutroller，再透過view顯示資料結果。
