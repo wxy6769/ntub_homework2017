@@ -1,0 +1,7 @@
+1. 用自己的話說明Ruby與Rails的不同
+Ruby就像是一台標準的電腦，只擁有最基本的電腦設備，例如：CPU、I/O、Memory…等，
+而Rails就像是電腦周邊及軟硬體，用台提升電腦的可用度及效率。如同JAVA與Spring或Struts的關係。
+2. 用自己的話說明Rails在MVC中大概的運作方式
+使用者輸入URL後會經過Controller將他導向正確的位置，若找不到位置會出現HTTP 404。
+當導向到正確的位置後會交給Model做處理，例如：撈資料庫，處理商業邏輯…等。
+當Model處理完後會藉由Controller來將資料處理，並與View做結合，最後展現給使用者看。
